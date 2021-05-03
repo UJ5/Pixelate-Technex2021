@@ -17,4 +17,7 @@ shape detection on a colored grid arena. Continious live feed of arena is provid
 - Bot is moved forward on calculated shortest path. Live position of bot-car is identified by aruco marker on its top.
 
 **Check out the youtube video here:**
-![Watch the video](https://i9.ytimg.com/vi/kUSyqiDj9bw/mq2.jpg?sqp=CIyGwIQG&rs=AOn4CLDehS5xtrFBPBfm4CxWPMQLNwaLtA)](https://youtu.be/kUSyqiDj9bw)
+
+
+
+![Watch the video](https://i9.ytimg.com/vi/kUSyqiDj9bw/mq2.jpg?sqp=CIyGwIQG&rs=AOn4CLDehS5xtrFBPBfm4CxWPMQLNwaLtA)]
