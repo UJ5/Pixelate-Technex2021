@@ -20,4 +20,4 @@ shape detection on a colored grid arena. Continious live feed of arena is provid
 
 
 
-![Watch the video](https://i9.ytimg.com/vi/kUSyqiDj9bw/mq2.jpg?sqp=CIyGwIQG&rs=AOn4CLDehS5xtrFBPBfm4CxWPMQLNwaLtA)
+[![Watch the video](https://i9.ytimg.com/vi/kUSyqiDj9bw/mq2.jpg?sqp=CIyGwIQG&rs=AOn4CLDehS5xtrFBPBfm4CxWPMQLNwaLtA)](https://youtu.be/kUSyqiDj9bw)
