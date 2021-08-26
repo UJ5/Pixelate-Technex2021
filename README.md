@@ -62,4 +62,4 @@ Check out the youtube video here:
 
 
 
-[<img src="https://i9.ytimg.com/vi/3k_BcKAblLI/mq1.jpg?sqp=COjziIkG&rs=AOn4CLDj0hKP3HF4NTv7co2gwLSmwhXHLA&retry" width="600" height="300">](https://youtu.be/3k_BcKAblLI)
+[<img src="https://github.com/ujjawalmodanwal/Pixelate-Technex2021/blob/main/images/thumbnail.png" width="600" height="300">](https://youtu.be/3k_BcKAblLI)
