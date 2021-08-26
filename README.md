@@ -20,6 +20,10 @@ I divided this task in two parts:
 
 <h2>Preprocessing part</h2>
 
+- Here, is the colored image of scanned arena provided to me:
+
+<img src=https://github.com/ujjawalmodanwal/Pixelate-Technex2021/blob/main/arena(2).png>
+
 - I did image processing using the OpenCV module for detecting the different colors, shapes present on the arena. 
 
 - Different colors are detected using the pixel values for particular color. I created mask for each color (rest colors converted to black). I found the canny edges, contours of shapes (differen rectangles of same color) and then used moment menthod on that contour points to find the centroid of each square node. Contour is nothing but a set of continious points for each shape.Below is the image:
