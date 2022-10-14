@@ -1,5 +1,5 @@
 # Technex'2021
-# Pixelate-A computer project:
+# Pixelate-A computer vision project:
 
 Pixelate is an image procesing and robotics event of Technex (annual techno-management fest of IIT-BHU Varanasi).
 This repository is about my work on pixelate projcet. 
